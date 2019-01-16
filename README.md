@@ -24,5 +24,7 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 #### Time Series
 ##### Fractional Brownian motion 
 * https://github.com/bottler/iisignature
+* https://arxiv.org/abs/1707.07124
+* https://github.com/imanolperez/signatures-psychiatry
 * https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-2
     
