@@ -12,18 +12,18 @@ Past Workshop:
 
 
 
-Papers:
+# Papers:
 
-Suggested:
+## Suggested:
 
 
-Probabilistic programming
-GANS:
-  Wasserstein GAN:  https://arxiv.org/abs/1701.07875
-Bayesian techniques:
+### Probabilistic programming
+#### GANS:
+* Wasserstein GAN:  https://arxiv.org/abs/1701.07875
+#### Bayesian techniques:
 
-Time Series
-  Fractional Brownian motion 
-    https://github.com/bottler/iisignature
-    https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-2
+### Time Series
+#### Fractional Brownian motion 
+* https://github.com/bottler/iisignature
+* https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-2
     
