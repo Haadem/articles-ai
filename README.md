@@ -11,18 +11,18 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 
 
 
-# Papers:
+## Papers:
 
-## Suggested:
+### Suggested:
 
 
-### Probabilistic programming
-#### GANS:
+#### Probabilistic programming
+##### GANS:
 * Wasserstein GAN:  https://arxiv.org/abs/1701.07875
-#### Bayesian techniques:
+##### Bayesian techniques:
 
-### Time Series
-#### Fractional Brownian motion 
+#### Time Series
+##### Fractional Brownian motion 
 * https://github.com/bottler/iisignature
 * https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-2
     
