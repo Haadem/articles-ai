@@ -2,12 +2,11 @@
 Semi-regular workshops for anyone connected to FinStart Nordic
 
 
-
-Upcomming workshops:
+## Upcomming workshops:
   TBA soon, probably end of january
 
 
-Past Workshop:
+## Past Workshop:
 
 
 
