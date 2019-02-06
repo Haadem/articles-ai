@@ -11,22 +11,25 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 
 
 
-## Papers:
-
-### Suggested:
 
 
-#### Probabilistic programming
-##### GANS:
+## Suggested Themes and papers:
+
+
+### Probabilistic programming
+#### General 
+
+#### GANS:
 * Wasserstein GAN:  https://arxiv.org/abs/1701.07875
-##### Bayesian techniques:
+#### Bayesian techniques:
 
-#### Time Series
-##### Fractional Brownian motion and Rough Paths
+### Time Series
+#### Fractional Brownian motion and Rough Paths
+##### Signatures
 * https://github.com/bottler/iisignature
 * https://arxiv.org/abs/1707.07124
 * https://github.com/imanolperez/signatures-psychiatry
 * https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-2
    
-###### Rough volatility
+##### Rough volatility
 https://sites.google.com/site/roughvol/documents
