@@ -15,13 +15,17 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 
 ## Suggested Themes and papers:
 
+### Deep learning
+
+#### Training
 
 ### Probabilistic programming
 #### General 
+* Bayesian models
 
 #### GANS:
 * Wasserstein GAN:  https://arxiv.org/abs/1701.07875
-#### Bayesian techniques:
+
 
 ### Time Series
 #### Fractional Brownian motion and Rough Paths
@@ -33,3 +37,6 @@ Semi-regular workshops for anyone connected to FinStart Nordic
    
 ##### Rough volatility
 https://sites.google.com/site/roughvol/documents
+
+#### Clasical models
+* ARIMA
