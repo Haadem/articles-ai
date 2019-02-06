@@ -22,9 +22,11 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 ##### Bayesian techniques:
 
 #### Time Series
-##### Fractional Brownian motion 
+##### Fractional Brownian motion and Rough Paths
 * https://github.com/bottler/iisignature
 * https://arxiv.org/abs/1707.07124
 * https://github.com/imanolperez/signatures-psychiatry
 * https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-2
-    
+   
+###### Rough volatility
+https://sites.google.com/site/roughvol/documents
