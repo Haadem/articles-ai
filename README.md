@@ -3,7 +3,12 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 
 
 ## Upcomming workshops:
-  TBA soon, probably end of january
+* Friday 15. feb 13.00 - 15.00, Kongens gate 12 1. floor (ground)
+### Fractional Brownian motion and Rough Paths
+Review fractional brownian motion + rough paths
+Intro to applied signatures
+* https://arxiv.org/abs/1707.07124
+ https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-1
 
 
 ## Past Workshop:
