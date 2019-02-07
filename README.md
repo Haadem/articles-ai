@@ -2,7 +2,7 @@
 Semi-regular workshops for anyone connected to FinStart Nordic
 
 
-## Upcomming workshops:
+## 1. Upcomming workshops:
 * Friday 15. feb 13.00 - 15.00, Kongens gate 12 1. floor (ground)
 ### Fractional Brownian motion and Rough Paths
 Review fractional brownian motion + rough paths
@@ -11,20 +11,20 @@ Intro to applied signatures
  https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-1
 
 
-## Past Workshop:
+## 2. Past Workshop:
 
 
 
 
 
 
-## Suggested Themes and papers:
+## 3. Suggested Themes and papers:
 
-### Deep learning
+### a. Deep learning
 
-#### Training
+#### b. Training
 
-### Probabilistic programming
+### c .Probabilistic programming
 #### General 
 * Bayesian models
 
@@ -32,7 +32,7 @@ Intro to applied signatures
 * Wasserstein GAN:  https://arxiv.org/abs/1701.07875
 
 
-### Time Series
+### d. Time Series
 #### Fractional Brownian motion and Rough Paths
 ##### Signatures
 * https://github.com/bottler/iisignature
