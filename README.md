@@ -3,7 +3,7 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 
 
 ## 1. Upcomming workshops:
-* Friday 15. feb 13.00 - 15.00, Kongens gate 12 1. floor (ground)
+* Friday 22. feb 15.00 - 16.30, Kongens gate 12 1. floor (ground)
 ### Fractional Brownian motion and Rough Paths
 Review fractional brownian motion + rough paths
 Intro to applied signatures
