@@ -13,6 +13,8 @@ https://www.economicsnetwork.ac.uk/archive/standrews_phd/Alos.pdf
 * Intro to signatures and applications
  https://arxiv.org/abs/1707.07124
  https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-1
+ 
+ https://sites.google.com/site/roughvol/documents
 
 
 ## 2. Past Workshop:
