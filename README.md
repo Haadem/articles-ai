@@ -7,7 +7,7 @@ Semi-regular workshops for anyone connected to FinStart Nordic
 #### Fractional Brownian motion and Rough Paths
 Review fractional brownian motion + rough paths
 ##### Intro fbm 
-https://www.economicsnetwork.ac.uk/archive/standrews_phd/Alos.pdf
+ * https://www.economicsnetwork.ac.uk/archive/standrews_phd/Alos.pdf
 
 
 #### Intro to signatures and applications
