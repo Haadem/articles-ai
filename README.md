@@ -1,9 +1,10 @@
-# FSN_Workshop
-Semi-regular workshops for anyone connected to FinStart Nordic
+# Articles
+
+List of articles
 
 
-## 1. Upcomming workshops:
-* Friday 22. feb 15.00 - 16.30, Kongens gate 12 1. floor (ground)
+
+
 #### Fractional Brownian motion and Rough Paths
 Review fractional brownian motion + rough paths
 ##### Intro fbm 
@@ -16,7 +17,7 @@ Review fractional brownian motion + rough paths
  * https://sites.google.com/site/roughvol/documents
 
 
-## 2. Past Workshop:
+
 
 
 
